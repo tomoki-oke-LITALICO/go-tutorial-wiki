@@ -1,3 +1,3 @@
-module tomoki-oke-LITALICO/golang20211001
+module tomoki-oke-LITALICO/wiki
 
 go 1.17
