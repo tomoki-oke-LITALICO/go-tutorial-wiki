@@ -1,1 +1,1 @@
-# golang20211001
+https://golang.org/doc/articles/wiki/
