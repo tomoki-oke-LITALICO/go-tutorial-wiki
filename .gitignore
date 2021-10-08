@@ -1,0 +1,3 @@
+wiki
+pages/contents/*
+!pages/contents/.gitkeep
